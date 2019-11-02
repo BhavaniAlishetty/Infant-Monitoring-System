@@ -1,0 +1,10 @@
+Steps Need to be done to start the project:
+1. Set the connections properly
+2. Plug the USB's to laptops
+3. Upload the code
+4. Open Pycharm and runserver with command 
+   "py manage.py runserver 192.168.43.5:8000"
+5. Open Yawcam.
+6. Enable File, HTTP,Stream
+7. Check the server running.
+8. Project Set Up Is ready

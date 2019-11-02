@@ -1,0 +1,38 @@
+ Connections between DHT sensor,Moisture Sensor, arduino,Node MCU
+  ARDUINO	DHT-11
+  3.3V		VCC
+  A0		DOUT
+ GND		GND
+
+ ARDUINO 	NODE MCU
+ 2		D3
+ 3		D2
+GND		GND
+
+ ARDUINO 	MOISTURE 
+ 5V 		VCC
+ A1		A0
+ GND		GND
+
+BUZZER 		ARDUINO
+ - (minus)		GND
+ s		6
+<middleone>	VCC 3.3
+
+ULTRASONIC	ARDUINO
+ VCC 		5V
+GND 		GND
+Trig Pin 		8	
+Echo Pin 		9
+
+
+
+
+
+
+
+SOUND SENSOR	ARDUINO #yet to be done
+A0		Analog pins
+D0		Digital pins
+GND		GND
+VCC		5V
